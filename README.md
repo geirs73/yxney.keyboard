@@ -5,3 +5,5 @@ Keyboard layouts used by me for Windows
 * http://www.unicode.org/charts/collation/
 * https://www.hanselminutes.com/117/sorting-out-internationalization-with-michael-kaplan
 * http://kbdlayout.info/
+* https://msklc-guide.github.io/
+* https://unicodelookup.com/
